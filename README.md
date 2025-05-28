@@ -1,6 +1,6 @@
 # Secure Python Password Manager
 
-A desktop GUI application built with Python and Tkinter for securely storing and managing your ID/password pairs. All sensitive information is encrypted locally using strong cryptographic algorithms, ensuring your data remains private and under your control. A detailed breakdown of the code and its coresoponding cryptography implementation is given in the "Password Storage GUI" Folder README.md.
+A desktop GUI application built with Python and Tkinter for securely storing and managing your ID/password pairs. All sensitive information is encrypted locally using strong cryptographic algorithms, ensuring your data remains private and under your control. A detailed breakdown of the code and its coresoponding cryptography implementation is given in README.md in the "Password Storage GUI" Folder.
 
 ## Key Features
 
