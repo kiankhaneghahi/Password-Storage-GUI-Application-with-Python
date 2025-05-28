@@ -76,6 +76,7 @@ The encrypted vault file, `pm_vault.enc`, is crucial. It is stored in the **same
 <img width="1182" alt="Screenshot 2025-05-28 at 1 41 23 PM" src="https://github.com/user-attachments/assets/1c8cf08f-55f0-4d20-8d5c-6f8e1e37fef7" />
 <img width="1177" alt="Screenshot 2025-05-28 at 1 42 54 PM" src="https://github.com/user-attachments/assets/909ffacb-20c4-4334-a040-ff4e07fa8eb9" />
 
-
+## Future Related Projects
+Currently, a web based version of this application is considered and is under development. This will make improvements in the security aspects of the application and its user interface. However, it also introduces some new challenges in the process which are being addressed and resolved carefully.
 
 
