@@ -73,5 +73,5 @@ The encrypted vault file, `pm_vault.enc`, is crucial. It is stored in the **same
 
 ## Screenshots
 
-*(Consider adding 2-3 screenshots of the application here to showcase its interface: e.g., the login screen, the main view with a list of entries, and the add/edit entry dialog).*
+
 
