@@ -16,7 +16,7 @@ A desktop GUI application built with Python and Tkinter for securely storing and
 * **Secure Password Generator:** A built-in utility to generate strong, random passwords with customizable criteria (length, inclusion of uppercase/lowercase letters, digits, and symbols).
 * **Auto-Lock:** For enhanced security, the vault automatically locks after 15 minutes of inactivity. Manual locking is also available at any time.
 * **Clipboard Management:** Conveniently copy usernames or passwords to the clipboard. A best-effort attempt is made to clear the copied data from Tkinter's clipboard view after 30 seconds.
-* **User-Friendly GUI:** An intuitive graphical interface built with Python's standard Tkinter library and ttk themed widgets, aiming for a clean and modern look across different operating systems but also easy to implement.
+* **User-Friendly GUI:** An intuitive graphical interface built with Python's standard Tkinter library and ttk themed widgets, aiming for a clean and modern look across different operating systems and at the same time utilized for its simplicity in implementation.
 * **Atomic Saves:** Vault data is saved to a temporary file first, then renamed, to minimize the risk of data corruption if the application closes unexpectedly during a save operation.
 
 ## How it Works (High-Level)
