@@ -72,6 +72,10 @@ The encrypted vault file, `pm_vault.enc`, is crucial. It is stored in the **same
 * **Resetting:** To reset the application (e.g., to set a new master password from scratch if you've forgotten the old one and are willing to lose existing data, or for testing), close the application completely and then delete the `pm_vault.enc` file. The next time you run the script, it will start with the setup process.
 
 ## Screenshots
+<img width="1183" alt="Screenshot 2025-05-28 at 1 37 55 PM" src="https://github.com/user-attachments/assets/3bf44cf1-ae23-46ff-8d03-14429c45d4ac" />
+<img width="1182" alt="Screenshot 2025-05-28 at 1 41 23 PM" src="https://github.com/user-attachments/assets/1c8cf08f-55f0-4d20-8d5c-6f8e1e37fef7" />
+<img width="1177" alt="Screenshot 2025-05-28 at 1 42 54 PM" src="https://github.com/user-attachments/assets/909ffacb-20c4-4334-a040-ff4e07fa8eb9" />
+
 
 
 
